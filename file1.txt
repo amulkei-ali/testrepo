@@ -1,3 +1,5 @@
 this is my first time trying to use github and push my work to it from the cli
 woooohoooo allahim yaa rab it just worked out for me hhhhhh:)
 will this really work again without specifying "git push -u origin main" and simply typing "git push".let's see. hadi bismillah:)
+
+JUST CHECKING IF I CAN PUSH THIS CONTENT TO THE MAIN BRANCH
